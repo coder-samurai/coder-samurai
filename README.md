@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="mailto:aelboutaheri@gmail.com" target="_blank">
+  <a href="mailto:samuraicoder01@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://instagram.com/samuraicoder" target="_blank">
